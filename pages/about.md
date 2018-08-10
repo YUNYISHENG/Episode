@@ -13,4 +13,5 @@ My name is Anlong Qin, a Ph.D. student in Econemetrics at Boston university.
 ![huanhuaxi01](https://raw.githubusercontent.com/YUNYISHENG/episode/gh-pages/_assets/images/huanhuaxi_001.jpg)
 
 ### 渔舟
+![h02](https://github.com/YUNYISHENG/episode/blob/gh-pages/_assets/images/huanhuaxi_002.jpg?raw=true)
 ![huanhuaxi02]({{ "/_assets/images/huanhuaxi_002.jpg" | absolute_url }} )
