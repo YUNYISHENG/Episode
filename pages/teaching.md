@@ -5,5 +5,5 @@ published: true
 ---
 Teaching Assitant:
 
-EC709, Fall 2018
+EC709, Fall 2018.
 
