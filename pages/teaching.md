@@ -1,7 +1,8 @@
 ---
-layout: "page"
-title: "Teaching"
+layout: page
+title: Teaching
+published: true
 ---
-Teaching Assitant: Fall 2018: EC709.
+Teaching Assitant: 
+EC709, Fall 2018
 
-好的
