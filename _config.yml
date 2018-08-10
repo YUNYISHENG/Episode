@@ -25,6 +25,7 @@ github_username:  YUNYISHENG
 # Build settings
 markdown: kramdown
 theme: minima
+permalink: /:categories/:year/:month/:day/:title:output_ext
 plugins:
   - jekyll-feed
 
