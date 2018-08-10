@@ -25,4 +25,4 @@ time and frequency domain
 
 ## 2. Non-linear Time Series
 1. Randal Douc, Eric Moulines, David Stoffer (2014). ___Nonlinear Time Series: Theory, Methods and Applications with R Examples___. Chapman and Hall/CRC
-
+2. Durbin, J. and Koopman, S. J. (2012). Time Series Analysis by State Space Methods.   Oxford University Press, Oxford
