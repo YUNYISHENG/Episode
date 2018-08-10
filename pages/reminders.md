@@ -3,7 +3,7 @@ layout: page
 title: Reminders
 published: true
 ---
-****时刻提醒自己
+## 时刻提醒自己
 
 坚持规划及克制， 
 
