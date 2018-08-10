@@ -24,5 +24,5 @@ time and frequency domain
 4. Box, G. and Jenkins, G. (1970). Time Series Analysis: Forecasting and Control. San Francisco: Holden-Day.
 
 ## 2. Non-linear Time Series
-1. Randal Douc, Eric Moulines, David Stoffer (2014). Nonlinear Time Series: Theory, Methods and Applications with R Examples. Chapman and Hall/CRC
+1. _Randal Douc, Eric Moulines, David Stoffer (2014). Nonlinear Time Series: Theory, Methods and Applications with R Examples. Chapman and Hall/CRC_
 
