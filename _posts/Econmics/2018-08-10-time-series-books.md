@@ -22,3 +22,7 @@ time and frequency domain
 3. Shumway, R. and Stoffer, D. (2011). Time Series Analysis and Its Applications. Springer, New York, 3rd edition
 
 4. Box, G. and Jenkins, G. (1970). Time Series Analysis: Forecasting and Control. San Francisco: Holden-Day.
+
+## Non-linear Time Series
+1. Randal Douc, Eric Moulines, David Stoffer (2014). Nonlinear Time Series: Theory, Methods and Applications with R Examples. Chapman and Hall/CRC
+
