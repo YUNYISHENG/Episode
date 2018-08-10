@@ -1,6 +1,6 @@
 ---
 layout: "page"
-title: "Book Lists"
+title: "Academic Book Lists"
 ---
 ## Notes
 Reading and learning. 
