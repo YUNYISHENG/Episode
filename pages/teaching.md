@@ -3,6 +3,7 @@ layout: page
 title: Teaching
 published: true
 ---
-Teaching Assitant: 
+Teaching Assitant:
+
 EC709, Fall 2018
 
