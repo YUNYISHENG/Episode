@@ -10,7 +10,7 @@ My name is Anlong Qin, a Ph.D. student in Econemetrics at Boston university.
 
 ## 浣花溪
 ### 翱翔
-![huanhuaxi01](https://raw.githubusercontent.com/YUNYISHENG/episode/gh-pages/_assets/image/huanhuaxi_001.jpg)
+![huanhuaxi01](https://raw.githubusercontent.com/YUNYISHENG/episode/gh-pages/_assets/images/huanhuaxi_001.jpg)
 
 ### 渔舟
-![huanhuaxi02]({{ "/_assets/image/huanhuaxi_002.jpg" | absolute_url }} )
+![huanhuaxi02]({{ "/_assets/images/huanhuaxi_002.jpg" | absolute_url }} )
