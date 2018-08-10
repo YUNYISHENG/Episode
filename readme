@@ -3,7 +3,7 @@ hello
 I. add images
 1. local images
 (1) upload the picture to the folder "_assets"
-(2) right click the picture to open it in a separate windown
+(2) right click the picture to open it in a separate windown or choose "copy the address"
 (3) copy the path as "url"
 2. online images
 (1) right click the picture to open it in a separate windown
@@ -12,3 +12,6 @@ I. add images
 <!---
 ![name](url)
 --->
+or 
+![name]({{ "/_assets/images/huanhuaxi_002.jpg" | absolute_url }} )
+
