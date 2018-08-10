@@ -1,6 +1,6 @@
 ---
-layout: "page"
-title: "Reminders"
+layout: page
+title: Reminders
+published: true
 ---
-## NOTES
 时刻提醒自己
