@@ -14,4 +14,7 @@ I. add images
 --->
 or 
 ![name]({{ "/_assets/images/huanhuaxi_002.jpg" | absolute_url }} )
+4. NOTES
+we can add the images from others github image files, eg,
+![name](https://github.com/JUNYING2018/jy_blog/blob/gh-pages/assets/images/huanhuaxi_002.jpg?raw=true)
 
