@@ -17,7 +17,7 @@ title: Anlong Qin's Blog
 email: qinanlong2014@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is my first personal website. It is created to remind me anything important. More modifications are needed to make this site better and better.
-baseurl: "episode" # the subpath of your site, e.g. /blog
+baseurl: "/episode" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Anlong17
 github_username:  YUNYISHENG
