@@ -19,4 +19,4 @@ title: "人生的智慧"
 - 尼采， Friedrich Nietzsche
 
 ## 摘句
-
+- 世界是我的表象
