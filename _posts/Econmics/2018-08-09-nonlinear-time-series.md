@@ -4,6 +4,11 @@ author: "Anlong"
 categories: "Economics"
 title: "Notes: Nonliner Time Series Theory  Methods and Applications with R Examples"
 ---
-This is a LaTex math formula:
+## Likelihood Inference
+(i) an observation: <a href="https://www.codecogs.com/eqnedit.php?latex=(X_{1},X_{2},...,X_{n})" target="_blank"><img src="https://latex.codecogs.com/gif.latex?(X_{1},X_{2},...,X_{n})" title="(X_{1},X_{2},...,X_{n})" /></a>
 
-<a href="https://www.codecogs.com/eqnedit.php?latex=f(x)&space;=&space;x^{2}&plus;2x&plus;1" target="_blank"><img src="https://latex.codecogs.com/gif.latex?f(x)&space;=&space;x^{2}&plus;2x&plus;1" title="f(x) = x^{2}+2x+1" /></a>
+(ii) a model: a collection of distributions, <a href="https://www.codecogs.com/eqnedit.php?latex=(P_{\theta},\theta&space;\in&space;\Theta&space;)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?(P_{\theta},\theta&space;\in&space;\Theta&space;)" title="(P_{\theta},\theta \in \Theta )" /></a>
+
+(iii) a criterion of the type: <a href="https://www.codecogs.com/eqnedit.php?latex=\theta&space;\rightarrow&space;M_{n}(\theta)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\theta&space;\rightarrow&space;M_{n}(\theta)" title="\theta \rightarrow M_{n}(\theta)" /></a>
+
+## Bayesian Inference
