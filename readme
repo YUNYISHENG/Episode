@@ -18,3 +18,6 @@ or
 we can add the images from others github image files, eg,
 ![name](https://github.com/JUNYING2018/jy_blog/blob/gh-pages/assets/images/huanhuaxi_002.jpg?raw=true)
 
+II. add math expression
+(1) open the web: https://www.codecogs.com/latex/eqneditor.php
+(2) type the math expression, copy the HTML code into the markdown file. 
