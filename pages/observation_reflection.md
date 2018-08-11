@@ -13,7 +13,6 @@ title: "Observation and Reflection"
 
 \# 才艺与兴趣爱好
 - 音乐、美术、体育。业余中的专业级别。
-
 - 爱好会使人更加专注。
 
 \# 批判与接受
