@@ -4,9 +4,7 @@ title: "Academic Book Lists"
 ---
 ## Notes
 Reading and learning. 
-
 This is the list of books and papers I am reading and read.
-
 The books are saved in the folder (\_economics/\_BU/References/References_Regime_Switching_Models/books) and the papers are saved in the folder (\_economics/\_BU/References/References_Regime_Switching_Models/papers).
 
 ## Books
