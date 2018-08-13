@@ -16,7 +16,7 @@ The books are saved in the folder (\_economics/\_BU/References/References_Regime
 
 ## Papers
 - Douc. 2004. *Asymptotic Properties of the Maximum Likelihood Estimator in Autoregressive Models with Markov Regime.* The Annals of Statistics. (\_economics/\_BU/References/References_Regime_Switching_Models/papers)
-- Yacine Ait-Sahalla. 2002. *Maximum Likelihood estimation of discretely sampled diffusions A closed-form approaximation approach.* Econometrica. 
+- Yacine Ait-Sahalla. 2002. *Maximum Likelihood estimation of discretely sampled diffusions A closed-form approaximation approach.* Econometrica. Code: *https://www.princeton.edu/~yacine/research.htm*
 - Yacine Ait-Sahalla. 1999. *Transition densities for interest rate and other nonlinear diffusions.* The Jounal of Finance.
 
 ## OTHERS
