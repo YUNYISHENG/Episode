@@ -25,3 +25,5 @@ published: true
 ## NOTES
 - differenced data: which will remove the trend. <a href="https://www.codecogs.com/eqnedit.php?latex=Y_{t}=\nabla&space;log(X_{t})" target="_blank"><img src="https://latex.codecogs.com/gif.latex?Y_{t}=\nabla&space;log(X_{t})" title="Y_{t}=\nabla log(X_{t})" /></a>
 
+## OTHERS
+- debt: ￥8w，Tian.
