@@ -7,8 +7,10 @@ Reading and learning.
 
 This is the list of books and papers I am reading and read.
 
+The books are saved in the folder (\_economics/\_BU/References/References_Regime_Switching_Models/books) and the papers are saved in the folder (\_economics/\_BU/References/References_Regime_Switching_Models/papers).
+
 ## Books
-- Douc_Moulines_Stoffer_2014_*Nonliner Time Series Theory  Methods and Applications with R Examples*. (\_economics/\_BU/References/References_Regime_Switching_Models/books)
+- Douc_Moulines_Stoffer_2014_*Nonliner Time Series Theory  Methods and Applications with R Examples*.
 - Kim_1999_*State Space Models with Regime Switching_Classical and Gibbs-Sampling Approaches with Applications.* 
 - Sylvia_2006_*Mixture and Markov Switching Models.*
 
