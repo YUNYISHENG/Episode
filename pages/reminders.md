@@ -28,11 +28,11 @@ published: true
 - differenced data: which will remove the trend. <a href="https://www.codecogs.com/eqnedit.php?latex=Y_{t}=\nabla&space;log(X_{t})" target="_blank"><img src="https://latex.codecogs.com/gif.latex?Y_{t}=\nabla&space;log(X_{t})" title="Y_{t}=\nabla log(X_{t})" /></a>
 - Time series data: T=S/h.
 
-*T:total number of observation or sample size.*
+*T: total number of observation or sample size.*
 
-*S: total span *
+*S: total span.*
 
-*h: sampling frequency*
+*h: sampling frequency.*
 
 *eg: S-the period from 2008 to 2017; and if the sampling frequency is by days, h=1day, then we have T=3650 observations; if the frequency is by months, h=1month, we have T=120 observations.*
 
