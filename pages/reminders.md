@@ -36,5 +36,7 @@ published: true
 
 *eg: S-the period from 2008 to 2017; and if the sampling frequency is by days, h=1day, then we have T=3650 observations; if the frequency is by months, h=1month, we have T=120 observations.*
 
+- The name "hidden Markov model" is apparently due to L.P.Neuwirth(Poritz,1988).{MacDonald, Zucchini(1997),page 56}.
+
 ## OTHERS
 - debt: ￥8w，Tian.
