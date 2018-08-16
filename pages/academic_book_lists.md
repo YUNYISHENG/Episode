@@ -13,6 +13,7 @@ The books are saved in the folder (\_economics/\_BU/References/References_Regime
 - Douc, Moulines and Stoffer. 2014. *Nonliner Time Series Theory  Methods and Applications with R Examples*. Chapman and Hall/CRC
 - Kim. 1999. *State Space Models with Regime Switching_Classical and Gibbs-Sampling Approaches with Applications.* MIT Press
 - Sylvia. 2006. *Finte Mixture and Markov Switching Models.* Springer Series in Statistics
+- Iain L. MacDonald and Walter Zucchini. 1997. *Hidden Markov and other models for discrete-valued time series*. Chapman & Hall.
 
 ## Papers
 - Douc. 2004. *Asymptotic Properties of the Maximum Likelihood Estimator in Autoregressive Models with Markov Regime.* The Annals of Statistics. (\_economics/\_BU/References/References_Regime_Switching_Models/papers)
