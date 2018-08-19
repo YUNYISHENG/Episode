@@ -7,6 +7,8 @@ title: "人生的智慧"
 
 人生的智慧-叔本华， Arthur Schopenhauer
 
+《附录和补遗》
+
 ## Lists
 - **希腊三贤/三哲**
 - 苏格拉底, Socrates.
@@ -17,6 +19,8 @@ title: "人生的智慧"
 - 歌德，Geothe. 《浮士德》, "Faust".
 - 尚福尔, Nicolas Chamfort
 - 尼采， Friedrich Nietzsche
+
+- 《吠陀》/《奥义书》
 
 ## 摘句
 - 世界是我的表象
