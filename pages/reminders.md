@@ -3,6 +3,9 @@ layout: page
 title: Reminders
 published: true
 ---
+- paper及教材，用本子take notes。
+- 其他的，可以杂记在this website。
+
 ## 时刻提醒自己
 
 1. 坚持规划及克制，  
