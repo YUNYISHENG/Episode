@@ -5,6 +5,7 @@ published: true
 ---
 - paper及教材，用本子take notes。
 - 其他的，可以杂记在this website。
+- NOTES: —___更新或添加内容从上往下增添___
 
 ## 时刻提醒自己
 
