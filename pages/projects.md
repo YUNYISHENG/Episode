@@ -16,9 +16,12 @@ Here is my current projects.
 
 % An Application in Autoregressive Markov Regime Models for High Dimensional Dataset to estimating the regimes.
 
-- **Continous Markov Regime Switching Models**
+- **Continous Time Markov Regime Switching Models**
+
+% Asymptotic properties of the estimators
 
 - **Hypothesis Tests and Inferences for Markov Regime Switching Models.**
 
-Restrictions on the Parameters for each Regime and across regimes.
+% Restrictions on the Parameters for each Regime.
 
+% Restrictions on the Parameters across regimes.
