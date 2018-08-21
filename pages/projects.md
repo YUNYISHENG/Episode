@@ -10,7 +10,7 @@ Here is my current projects.
 
 % an Application to Date Business Cycles
 
-% (1) employment by sectors; (2) industrial production by markets, with log difference; (3) industrial production by industry with durable goods allowing for sub sectors.
+% _quaterly data:_ (1) employment by sectors; (2) industrial production by markets, with log difference; (3) industrial production by industry with durable goods allowing for sub sectors.
 
 - **Aggregation for State Space Models: Inference Improvement for the Unobservable States.**
 
