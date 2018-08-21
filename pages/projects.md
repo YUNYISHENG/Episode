@@ -20,6 +20,8 @@ Here is my current projects.
 
 % Asymptotic properties of the estimators
 
+% *Consistency, Rate of Convergence, and Asymptotic Distribution.*
+
 - **Hypothesis Tests and Inferences for Markov Regime Switching Models.**
 
 % Restrictions on the Parameters for each Regime.
