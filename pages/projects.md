@@ -4,6 +4,8 @@ title: "Projects"
 ---
 Here is my current projects.
 
+- Note: Estimation, Inference and Computation.
+
 - **Esitmation and Inference: Autoregressive Markov Regime Switching Models for High Dimensional Dataset.**
 
 % Esitmation and Forcasting
