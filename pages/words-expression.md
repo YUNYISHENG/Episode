@@ -3,6 +3,9 @@ layout: "page"
 title: "Words & Expressions"
 ---
 1. Words
+- enumerate： mention (a number of things) one by one.
+- viz.: i.e.;namely.
+- agility: ability to move/think/understand quickly and easily.
 - erudition: the quality of having or showing great knowledge or learning.
 - hyphen /haifen/
 
