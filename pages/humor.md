@@ -13,7 +13,15 @@ title: "Humor"
 - 歇后语
 
 ## I. 哲理故事/幽默笑话/脑筋急转弯
-- 
+- 唐僧：八戒，你跑两步给为师看看吧！ 八戒：师傅，为什么要看我跑啊？ 唐僧：说来惭愧！为师长这么大，即没吃过猪肉，也没看过猪跑唉。。。一步一步来吧！
+
+-搞笑的翻译： 刘备 Backup Liu；关羽 Close Feather；张飞 Open Fly。
+
+- Q. I have a neck, but no head, and I wear a cap. What am I?
+- A. A bottle!
+
+- Q. A man was driving a truck. His headlights weren't on, and the moon wasn't out. Ahead of him, a woman dressed in all black started crossing the road. Fortunately, the man braked so she could cross. How did he see her?
+- A. It was the middle of the day!
 
 - 一家三口住进了新房。妻子见丈夫和儿子不太讲究卫生，就在家里写了一条标语“讲究卫生，人人有责”,以督促儿子和丈夫讲卫生。儿子放学回家，见了标语，拿出笔，把标语改成了“讲究卫生，大人有责”。第二天，丈夫见了，也拿出笔，把标语改成了“讲究卫生，太太有责”。
 
@@ -42,6 +50,14 @@ title: "Humor"
 - 有一个人只剩一颗牙了，为什么吃东西还会塞牙？(因为他吃的是藕) 
 
 ## II. 谜语/对联/歇后语
+- 半道上捡个喇叭--有的吹了
+- 半斤鸭子四两嘴--嘴巴硬
+- 半吊子的一半--二百五
+- 太阳送我到天上，风伯送我到四方，可怜我眼泪汪汪，才能够重回家乡{雨}
+- 千根线，万根线，落在河里看不见{雨}
+- 远看像座山，近看一溜烟{云}
+- 水皱眉，树摇头，花弯腰，云逃走{风}
+- 板凳上睡觉--翻不了身
 - 初见奴半吞半吐，望见奴遍体终身，思念奴夜夜更深，做媒时不得相逢{月亮}
 - 老有牙，小有牙，临到中年没有牙{月亮}
 - 湖南湖北，陕西外国，四方都有，云南没得{太阳，“云拦”}
