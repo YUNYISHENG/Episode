@@ -22,6 +22,8 @@ The books are saved in the folder (\_economics/\_BU/References/References_Regime
 - Stéphane Goutte, Benteng Zou. 2012. *Continuous time regime switching model applied to foreign exchange
 rate.*
 - Abraham Wald. 1949. _Notes on the consistency of Maximum likelihood estimation_
+- Jensen J. L. and Petersen L.R. 1999. _Asymptotic normality of maximum likelihood estimator in state space model._ The Annals of Statistics.
+- 
 
 ## OTHERS
 The folder: (\_economics/\_BU/References)
