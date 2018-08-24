@@ -28,3 +28,5 @@ rate.*
 ## OTHERS
 The folder: (\_economics/\_BU/References)
 - Yacine Aït Sahalia, Jean Jacod. 2014. *High-Frequency Financial Econometrics*. Princeton University Press.
+- Kai Lai Chung. _A course in probability theory._
+- Kai Lai Chung. _Lectures from Markov Processes to Brownian Motion_
