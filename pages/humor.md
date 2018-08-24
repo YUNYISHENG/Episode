@@ -15,7 +15,7 @@ title: "Humor"
 ## I. 哲理故事/幽默笑话/脑筋急转弯
 - 唐僧：八戒，你跑两步给为师看看吧！ 八戒：师傅，为什么要看我跑啊？ 唐僧：说来惭愧！为师长这么大，即没吃过猪肉，也没看过猪跑唉。。。一步一步来吧！
 
--搞笑的翻译： 刘备 Backup Liu；关羽 Close Feather；张飞 Open Fly。
+- 搞笑的翻译： 刘备 Backup Liu；关羽 Close Feather；张飞 Open Fly。
 
 - Q. I have a neck, but no head, and I wear a cap. What am I?
 - A. A bottle!
