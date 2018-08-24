@@ -21,6 +21,7 @@ The books are saved in the folder (\_economics/\_BU/References/References_Regime
 - Yacine Ait-Sahalla. 1999. *Transition densities for interest rate and other nonlinear diffusions.* The Jounal of Finance.
 - Stéphane Goutte, Benteng Zou. 2012. *Continuous time regime switching model applied to foreign exchange
 rate.*
+- Abraham Wald. 1949. _Notes on the consistency of Maximum likelihood estimation_
 
 ## OTHERS
 The folder: (\_economics/\_BU/References)
