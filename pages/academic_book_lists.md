@@ -31,3 +31,7 @@ The folder: (\_economics/\_BU/References)
 - Kai Lai Chung. _A course in probability theory._
 - Kai Lai Chung. 2001. _Lectures from Markov Processes to Brownian Motion_
 - Harald Cramer. 1946. _Mathematical Methods of Statistics._
+- Walter Rudin. _Real and complex analysis._
+- Halsey Royden and Patrick Fitzpatrick. _Real Analysis._
+
+
