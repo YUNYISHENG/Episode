@@ -3,6 +3,7 @@ layout: "page"
 title: "Words & Expressions"
 ---
 1. Words
+- BGM: background music.
 - cf.: compare
 - enumerate： mention (a number of things) one by one.
 - viz.: i.e.;namely.
