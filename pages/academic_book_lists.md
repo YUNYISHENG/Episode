@@ -34,5 +34,7 @@ The folder: (\_economics/\_BU/References)
 - Walter Rudin. _Real and complex analysis._
 - Halsey Royden and Patrick Fitzpatrick. _Real Analysis._
 - John L. Kelley. _General Topology._
+- Thomas Jech. _Set Theory._
+- Halmos. _Naive Set Theory._
 
 
