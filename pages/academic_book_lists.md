@@ -37,4 +37,10 @@ The folder: (\_economics/\_BU/References)
 - Thomas Jech. _Set Theory._
 - Halmos. _Naive Set Theory._
 
+The folder: (\_economics/\_BU/References/papers)
+- 
+- Hawkins. 1976. _Point Estimation of the Parameters of Piecewise Regression Models._ Journal of the Royal Statistical Society. Series C (Applied Statistics)
+
+
+
 
