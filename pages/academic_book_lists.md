@@ -27,7 +27,7 @@ rate.*
 - Bickel P., Ritov Y. and_Ryden T. 1998. _Asymptotic normality of the maximum-likelihood estimator for general hidden Markov models._ The Annals of Statistics.
 
 ## OTHERS
-The folder: (\_economics/\_BU/References)
+1. The folder: (\_economics/\_BU/References)
 - Yacine Aït Sahalia, Jean Jacod. 2014. *High-Frequency Financial Econometrics*. Princeton University Press.
 - Kai Lai Chung. _A course in probability theory._
 - Kai Lai Chung. 2001. _Lectures from Markov Processes to Brownian Motion_
@@ -38,7 +38,7 @@ The folder: (\_economics/\_BU/References)
 - Thomas Jech. _Set Theory._
 - Halmos. _Naive Set Theory._
 
-The folder: (\_economics/\_BU/References/papers)
+2. The folder: (\_economics/\_BU/References/papers)
 - 
 - Hawkins. 1976. _Point Estimation of the Parameters of Piecewise Regression Models._ Journal of the Royal Statistical Society. Series C (Applied Statistics)
 
