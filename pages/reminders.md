@@ -34,6 +34,10 @@ published: true
 
 - 勿花太多时间看app,每天至多看两次。
 
+## 安排
+- 整段时间： focus research.
+- 零散时间： 杂记/摘录/讨论。
+
 ## NOTES
 - differenced data: which will remove the trend. <a href="https://www.codecogs.com/eqnedit.php?latex=Y_{t}=\nabla&space;log(X_{t})" target="_blank"><img src="https://latex.codecogs.com/gif.latex?Y_{t}=\nabla&space;log(X_{t})" title="Y_{t}=\nabla log(X_{t})" /></a>
 - Time series data: T=S/h. If we fix the span, then the sample size is determined by sampling frequency.
