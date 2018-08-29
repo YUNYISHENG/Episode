@@ -9,4 +9,4 @@ published: true
 - Discussion: PSY, B53, Fri 2:30-3:15pm. 
 - Class: PSY, B53, Tues&Thur 11:00-12:15pm.
 
-- office: 412A
+- Office: 412A
