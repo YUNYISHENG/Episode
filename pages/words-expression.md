@@ -3,6 +3,7 @@ layout: "page"
 title: "Words & Expressions"
 ---
 1. Words
+- epilepsy
 - venerable: accorded a great deal of respect, especially because of age, wisdom, or character.
 - BGM: background music.
 - cf.: compare
