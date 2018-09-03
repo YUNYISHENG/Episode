@@ -36,7 +36,8 @@ rate.*
 - Yacine Aït Sahalia, Jean Jacod. 2014. *High-Frequency Financial Econometrics*. Princeton University Press.
 - Kai Lai Chung. _Markov Chains with Stationary Transition Probabilities_.
 - Kai Lai Chung. _A course in probability theory._
-- Kai Lai Chung. 2001. _Lectures from Markov Processes to Brownian Motion_
+- Kai Lai Chung. 2001. _Lectures from Markov Processes to Brownian Motion._
+- Doob. 1953. _Stochastic Processes._
 - Harald Cramer. 1946. _Mathematical Methods of Statistics._
 - Walter Rudin. _Real and complex analysis._
 - Halsey Royden and Patrick Fitzpatrick. _Real Analysis._
