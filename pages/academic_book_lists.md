@@ -14,6 +14,7 @@ The books are saved in the folder (\_economics/\_BU/References/References_Regime
 - Kim. 1999. *State Space Models with Regime Switching_Classical and Gibbs-Sampling Approaches with Applications.* MIT Press
 - Sylvia. 2006. *Finte Mixture and Markov Switching Models.* Springer Series in Statistics
 - Iain L. MacDonald and Walter Zucchini. 1997. *Hidden Markov and other models for discrete-valued time series*. Chapman & Hall.
+- Sean Meyn, Richard L. Tweedie, Peter W. Glynn. 1993. _Markov chains and stochastic stability_. Cambridge University Press
 
 ## Papers
 - Hamilton, James D. 1989. **A New Approach to the Economic Analysis of Nonstationary Time Series and the Business Cycle.** Econometrica.
