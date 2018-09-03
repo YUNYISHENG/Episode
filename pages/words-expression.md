@@ -3,6 +3,7 @@ layout: "page"
 title: "Words & Expressions"
 ---
 1. Words
+- epilogue: a section or speech at the end of a book or play that serves as a comment on or a conclusion to what has happened.
 - epilepsy
 - venerable: accorded a great deal of respect, especially because of age, wisdom, or character.
 - BGM: background music.
