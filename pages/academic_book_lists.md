@@ -20,6 +20,7 @@ The books are saved in the folder (\_economics/\_BU/References/References_Regime
 - Hamilton, James D. 1989. **A New Approach to the Economic Analysis of Nonstationary Time Series and the Business Cycle.** Econometrica.
 - Douc, Moulines and Ryden. 2004. **Asymptotic Properties of the Maximum Likelihood Estimator in Autoregressive Models with Markov Regime.** The Annals of Statistics.
 
+- Del Moral, Pierre and Miclo, L. 2001. _Particle approximations of Lyapunov exponents connected to Schrödinger operators and Feynman-Kac semigroups._
 - Le Gland and Mevel. 2000. _Exponential Forgetting and Geometric Ergodicity in Hidden Markov Models._ Mathematics of Control, Signals and Systems.
 - Brian G.Leroux. 1992. _Maximum-likelihood estimation for hidden Markov models._ Stochastic Processes and their Applications.
 - Leonard E. Baum and Ted Petrie. 1966. _Statistical Inference for Probabilistic Functions of Finite State Markov Chains._ The Annals of Mathematical Statistics.
