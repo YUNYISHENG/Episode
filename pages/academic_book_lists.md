@@ -47,7 +47,10 @@ rate.*
 - Halmos. _Naive Set Theory._
 
 2. The folder: (\_economics/\_BU/References/papers)
-- 
+-  R. H. Norden. 1973. _A Survey of Maximum Likelihood Estimation, Part2_ 
+International Statistical Review / Revue Internationale de Statistique
+-  R. H. Norden. 1972. _A Survey of Maximum Likelihood Estimation._ 
+International Statistical Review / Revue Internationale de Statistique
 - Gentzkow, Matthew and Jesse M. Shapiro. 2014. _Code and Data for the Social Sciences A Practitioner’s Guide._
 - Hawkins. 1976. _Point Estimation of the Parameters of Piecewise Regression Models._ Journal of the Royal Statistical Society. Series C (Applied Statistics)
 
