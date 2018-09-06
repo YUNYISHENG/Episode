@@ -26,3 +26,4 @@ folder: /\_economics/\_BU/\_Better Understanding/\convergence.
 ## Dominated Convergence Theorem
 
 ## Uniform Convergence and Pointwise Convergence
+- uniform convergence implies pointwise convergence
