@@ -12,3 +12,5 @@ folder: /\_economics/\_BU/\_Better Understanding/\convergence.
 - convergence in mean
 - convergence in probability
 - convergence in distribution
+
+## Convergence of Measures
