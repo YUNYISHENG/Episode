@@ -49,6 +49,7 @@ rate.*
 - Halmos. _Naive Set Theory._
 
 2. The folder: (\_economics/\_BU/References/papers)
+- Henri Theil. 1983. _Linear algebra and matrix methods in econometrics._
 -  R. H. Norden. 1973. _A Survey of Maximum Likelihood Estimation, Part2_ 
 International Statistical Review / Revue Internationale de Statistique
 -  R. H. Norden. 1972. _A Survey of Maximum Likelihood Estimation._ 
