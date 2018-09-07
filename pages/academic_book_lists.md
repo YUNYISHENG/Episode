@@ -35,6 +35,8 @@ rate.*
 ## OTHERS
 1. The folder: (\_economics/\_BU/References/books)
 - Yacine Aït Sahalia, Jean Jacod. 2014. *High-Frequency Financial Econometrics*. Princeton University Press.
+- Paul A. Ruud. 2000. _An Introduction to Classical Econometric Theory._
+- Calyampudi Radhakrishna. Rao. 1973. _Linear statistical inference and its applications_
 - Kai Lai Chung. _Markov Chains with Stationary Transition Probabilities_.
 - Kai Lai Chung. _A course in probability theory._
 - Kai Lai Chung. 2001. _Lectures from Markov Processes to Brownian Motion._
