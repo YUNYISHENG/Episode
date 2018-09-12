@@ -3,6 +3,7 @@ layout: "page"
 title: "Words & Expressions"
 ---
 1. Words
+- omnibus test.
 - bravo: used to express approval when a performer or other person has done something well.
 - denumerable: able to be counted by a one-to-one correspondence with the infinite set of integers.
 - progenitor: a person or thing from which a person, animal, or plant is descended or originates; an ancestor or parent.
