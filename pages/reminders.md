@@ -3,7 +3,7 @@ layout: page
 title: Reminders
 published: true
 ---
-- paper及教材，用本子take notes。
+- paper及教材，用本子take notes。**-Start a topic, and add pages when more materials are available-**
 - 其他的，可以杂记在this website。
 - NOTES: **-更新或添加内容从上往下增添-**
 
