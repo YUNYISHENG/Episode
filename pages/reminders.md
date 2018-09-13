@@ -3,7 +3,7 @@ layout: page
 title: Reminders
 published: true
 ---
-- paper及教材，用本子take notes。**-start a topic, and add pages when more materials are available-**, 例如，
+- paper及教材，用本子take notes。**-start a topic, and add pages when more materials are available-**, 例如，关于MLE的东西，做一个小总结，然后如果其他资料有更好的讲解，写在新的paper上，然后增补上去。
 - 其他的，可以杂记在this website。
 - NOTES: **-更新或添加内容从上往下增添-**
 
