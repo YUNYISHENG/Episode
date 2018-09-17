@@ -3,6 +3,7 @@ layout: "page"
 title: "Words & Expressions"
 ---
 1. Words
+- attenuate: reduce the force, effect, or value of. (weakened, reduced, lessened, decreased)
 - fig
 - omnibus test.
 - bravo: used to express approval when a performer or other person has done something well.
