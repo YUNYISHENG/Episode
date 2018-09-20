@@ -3,6 +3,7 @@ layout: "page"
 title: "Words & Expressions"
 ---
 1. Words
+- caveat: a warning or proviso of specific stipulations, conditions, or limitations. (warning, caution, admonition)
 - attenuate: reduce the force, effect, or value of. (weakened, reduced, lessened, decreased)
 - fig
 - omnibus test.
