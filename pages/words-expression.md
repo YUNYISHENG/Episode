@@ -3,6 +3,7 @@ layout: "page"
 title: "Words & Expressions"
 ---
 1. Words
+- ensemble: a group of items viewed as a whole rather than individually.(whole, entity, combination, composite)
 - caveat: a warning or proviso of specific stipulations, conditions, or limitations. (warning, caution, admonition)
 - attenuate: reduce the force, effect, or value of. (weakened, reduced, lessened, decreased)
 - fig
