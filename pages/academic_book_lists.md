@@ -38,6 +38,8 @@ rate.*
 - Paul A. Ruud. 2000. _An Introduction to Classical Econometric Theory._
 - Calyampudi Radhakrishna. Rao. 1973. _Linear statistical inference and its applications_
 - Shunji Osaki. 1992. _Applied Stochastic System Modeling_. Springer.
+- Fabrice Baudoin. 2010. _Diffusion Processes and Stochastic Calculus_
+- Oliver C Ibe. 2013. _Elements of Random Walk and Diffusion Processes_
 - Kai Lai Chung. _Markov Chains with Stationary Transition Probabilities_.
 - Kai Lai Chung. _A course in probability theory._
 - Kai Lai Chung. 2001. _Lectures from Markov Processes to Brownian Motion._
