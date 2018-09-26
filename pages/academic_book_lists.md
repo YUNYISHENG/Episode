@@ -37,7 +37,7 @@ rate.*
 - Yacine Aït Sahalia, Jean Jacod. 2014. *High-Frequency Financial Econometrics*. Princeton University Press.
 - Paul A. Ruud. 2000. _An Introduction to Classical Econometric Theory._
 - Calyampudi Radhakrishna. Rao. 1973. _Linear statistical inference and its applications_
-- Shunji Osaki_1992_Applied Stochastic System Modeling_. Springer.
+- Shunji Osaki. 1992. _Applied Stochastic System Modeling_. Springer.
 - Kai Lai Chung. _Markov Chains with Stationary Transition Probabilities_.
 - Kai Lai Chung. _A course in probability theory._
 - Kai Lai Chung. 2001. _Lectures from Markov Processes to Brownian Motion._
