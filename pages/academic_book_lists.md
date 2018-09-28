@@ -36,6 +36,8 @@ rate.*
 1. The folder: (\_economics/\_BU/References/books)
 - Yacine Aït Sahalia, Jean Jacod. 2014. *High-Frequency Financial Econometrics*. Princeton University Press.
 - Paul A. Ruud. 2000. _An Introduction to Classical Econometric Theory._
+- Samuel Karlin, Howard M. Taylor. 1975. _A First Course in Stochastic Processes._
+- Samuel Karlin, Howard M. Taylor. 1981. _A Second Course in Stochastic Processes._
 - Calyampudi Radhakrishna. Rao. 1973. _Linear statistical inference and its applications_
 - Shunji Osaki. 1992. _Applied Stochastic System Modeling_. Springer.
 - Fabrice Baudoin. 2010. _Diffusion Processes and Stochastic Calculus_
