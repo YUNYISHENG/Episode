@@ -22,9 +22,9 @@ case7 “”
 3 吻  
 4 抚摸  
 
-- 第四法宝：togethor and separate
-1 在一起，能倾心。（会创造romantic情景）
-2 若分别，使安心。（无忧而安心）
+- 第四法宝：togethor and separate  
+1 在一起，能倾心。（会创造romantic情景）  
+2 若分别，使安心。（无忧而安心）  
 
 
 - 终极法宝：自然而然，融会贯通。  
