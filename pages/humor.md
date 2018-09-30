@@ -172,7 +172,7 @@ title: "Humor"
 - 暗室里穿针--难过
 
 ## III. 图片
-- 教师节
+- 教师节  
 ![教师节](https://raw.githubusercontent.com/YUNYISHENG/episode/gh-pages/_assets/images/humor001.jpg)
 
 ## 资料补充
