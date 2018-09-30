@@ -171,6 +171,9 @@ title: "Humor"
 - 案板上的擀面杖--光棍一条
 - 暗室里穿针--难过
 
+## III. 图片
+![教师节]({{ "/_assets/images/humor001.jpg" | absolute_url }} )
+
 ## 资料补充
 1 **谜语**
 - 刘勰，《文心雕龙/谐隐》
