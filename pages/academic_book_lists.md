@@ -39,6 +39,7 @@ rate.*
 - Samuel Karlin, Howard M. Taylor. 1975. _A First Course in Stochastic Processes._
 - Samuel Karlin, Howard M. Taylor. 1981. _A Second Course in Stochastic Processes._
 - Calyampudi Radhakrishna. Rao. 1973. _Linear statistical inference and its applications_
+- Witold Bednorz. _Introduction to Markov Chains_
 - Shunji Osaki. 1992. _Applied Stochastic System Modeling_. Springer.
 - Fabrice Baudoin. 2010. _Diffusion Processes and Stochastic Calculus_
 - Oliver C Ibe. 2013. _Elements of Random Walk and Diffusion Processes_
