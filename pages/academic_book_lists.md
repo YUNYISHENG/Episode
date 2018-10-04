@@ -3,10 +3,8 @@ layout: "page"
 title: "Academic Book Lists"
 ---
 ## Notes
-Reading and learning. 
-
-This is the list of books and papers I am reading and read.
-
+Reading and learning.  
+This is the list of books and papers I am reading and read.  
 The books are saved in the folder (\_economics/\_BU/References/References_Regime_Switching_Models/books) and the papers are saved in the folder (\_economics/\_BU/References/References_Regime_Switching_Models/papers).
 
 ## Books
@@ -15,6 +13,7 @@ The books are saved in the folder (\_economics/\_BU/References/References_Regime
 - Sylvia. 2006. *Finte Mixture and Markov Switching Models.* Springer Series in Statistics
 - Iain L. MacDonald and Walter Zucchini. 1997. *Hidden Markov and other models for discrete-valued time series*. Chapman & Hall.
 - Sean Meyn, Richard L. Tweedie, Peter W. Glynn. 1993. _Markov chains and stochastic stability_. Cambridge University Press
+- Olivier Cappe, Eric Moulines, and Tobias Ryden. 2005. _Inference in Hidden Markov Models._
 
 ## Papers
 - Hamilton, James D. 1989. **A New Approach to the Economic Analysis of Nonstationary Time Series and the Business Cycle.** Econometrica.
