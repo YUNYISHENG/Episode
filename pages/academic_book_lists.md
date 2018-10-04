@@ -37,6 +37,7 @@ rate.*
 - Paul A. Ruud. 2000. _An Introduction to Classical Econometric Theory._
 - Samuel Karlin, Howard M. Taylor. 1975. _A First Course in Stochastic Processes._
 - Samuel Karlin, Howard M. Taylor. 1981. _A Second Course in Stochastic Processes._
+- Hermann Thorisson. 2000. _Coupling, Stationarity, and Regeneration._
 - Calyampudi Radhakrishna. Rao. 1973. _Linear statistical inference and its applications_
 - Witold Bednorz. _Introduction to Markov Chains_
 - Shunji Osaki. 1992. _Applied Stochastic System Modeling_. Springer.
