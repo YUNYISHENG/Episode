@@ -3,6 +3,7 @@ layout: "page"
 title: "Words & Expressions"
 ---
 1. Words
+- sober: not affected by alcohol; not drunk.
 - infinitesimal: extremely small.
 - kinetics: a branch of science that deals with the effects of forces upon the motions of material bodies or with changes in a physical or chemical system.
 - contrived: deliberately created rather than arising naturally or spontaneously. (	forced, artificial, pretended, unnatural)
