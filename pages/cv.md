@@ -1,6 +1,6 @@
 ---
 layout: "page"
-title: "My CV"
+title: "CV"
 ---
 This is the link of my cv.
 
