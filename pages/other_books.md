@@ -1,6 +1,6 @@
 ---
 layout: "page"
-title: "Other Books List"
+title: "Other Books"
 ---
 ## 哲学
 - 《人生的智慧》（叔本华）
