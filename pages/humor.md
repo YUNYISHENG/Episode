@@ -13,6 +13,10 @@ title: "Humor"
 - 歇后语
 
 ## I. 哲理故事/幽默笑话/脑筋急转弯
+-
+
+- 过夜的叫酒店，喝酒的却叫夜店。
+
 - Why the chicken cross the street？(To get another side.)
 
 -有两个人掉到陷阱里了，死的人叫死人，活人叫什么? （叫救命啦!） 
