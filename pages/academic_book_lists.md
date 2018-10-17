@@ -33,48 +33,48 @@ rate.*
 
 ## OTHERS
 1. The folder: (\_economics/\_BU/References/books)
-- **A. Econometrics**
-- Paul A. Ruud. 2000. _An Introduction to Classical Econometric Theory._
-- Heshem Pesaran. 2014. _Time Series and Panel Data Econometrics_
+- **A. Econometrics**  
+Paul A. Ruud. 2000. _An Introduction to Classical Econometric Theory._  
+Heshem Pesaran. 2014. _Time Series and Panel Data Econometrics_  
 
-- *a. Financial Econometrics*
-- Yacine Aït Sahalia, Jean Jacod. 2014. *High-Frequency Financial Econometrics*. Princeton University Press.
+- *a. Financial Econometrics*  
+Yacine Aït Sahalia, Jean Jacod. 2014. *High-Frequency Financial Econometrics*. Princeton University Press.  
 
-- *b. Time Series Econometrics*
-- James Douglas Hamilton. 1994. _Time Series Analysis._ Princeton University Press.
+- *b. Time Series Econometrics*  
+James Douglas Hamilton. 1994. _Time Series Analysis._ Princeton University Press.  
 
-- *c. Panel Data Econometrics*
-- Jeffrey M. Wooldridge. 2010. _Econometric Analysis of Cross Section and Panel Data_, Second Edition
-- Manuel Arellano. 2003. _Panel Data Econometrics_
+- *c. Panel Data Econometrics*  
+Jeffrey M. Wooldridge. 2010. _Econometric Analysis of Cross Section and Panel Data_, Second Edition  
+Manuel Arellano. 2003. _Panel Data Econometrics_
 
-- **B. Stochastic Process**
-- Samuel Karlin, Howard M. Taylor. 1975. _A First Course in Stochastic Processes._
-- Samuel Karlin, Howard M. Taylor. 1981. _A Second Course in Stochastic Processes._
-- Hermann Thorisson. 2000. _Coupling, Stationarity, and Regeneration._
-- Calyampudi Radhakrishna. Rao. 1973. _Linear statistical inference and its applications_
-- Witold Bednorz. _Introduction to Markov Chains_
-- Shunji Osaki. 1992. _Applied Stochastic System Modeling_. Springer.
-- Fabrice Baudoin. 2010. _Diffusion Processes and Stochastic Calculus_
-- Oliver C Ibe. 2013. _Elements of Random Walk and Diffusion Processes_
-- Kai Lai Chung. _Markov Chains with Stationary Transition Probabilities_.
-- Kai Lai Chung. _A course in probability theory._
-- Kai Lai Chung. 2001. _Lectures from Markov Processes to Brownian Motion._
-- Doob. 1953. _Stochastic Processes._
+- **B. Stochastic Process**  
+Samuel Karlin, Howard M. Taylor. 1975. _A First Course in Stochastic Processes._  
+Samuel Karlin, Howard M. Taylor. 1981. _A Second Course in Stochastic Processes._  
+Hermann Thorisson. 2000. _Coupling, Stationarity, and Regeneration._  
+Calyampudi Radhakrishna. Rao. 1973. _Linear statistical inference and its applications_  
+Witold Bednorz. _Introduction to Markov Chains_  
+Shunji Osaki. 1992. _Applied Stochastic System Modeling_. Springer.  
+Fabrice Baudoin. 2010. _Diffusion Processes and Stochastic Calculus_  
+Oliver C Ibe. 2013. _Elements of Random Walk and Diffusion Processes_  
+Kai Lai Chung. _Markov Chains with Stationary Transition Probabilities_.  
+Kai Lai Chung. _A course in probability theory._  
+Kai Lai Chung. 2001. _Lectures from Markov Processes to Brownian Motion._  
+Doob. 1953. _Stochastic Processes._  
 
-- **C. Statistics**
-- Harald Cramer. 1946. _Mathematical Methods of Statistics._
+- **C. Statistics**  
+Harald Cramer. 1946. _Mathematical Methods of Statistics._
 
-- **D. Real Analysis**
-- Walter Rudin. _Real and complex analysis._
-- Halsey Royden and Patrick Fitzpatrick. _Real Analysis._
+- **D. Real Analysis**  
+Walter Rudin. _Real and complex analysis._  
+Halsey Royden and Patrick Fitzpatrick. _Real Analysis._  
+ 
+- **E. Topology**  
+John L. Kelley. _General Topology._  
+Thomas Jech. _Set Theory._  
+Halmos. _Naive Set Theory._
 
-- **E. Topology**
-- John L. Kelley. _General Topology._
-- Thomas Jech. _Set Theory._
-- Halmos. _Naive Set Theory._
+- **F. Numerical Optimazation**  
 
-- **F. Numerical Optimazation**
-- 
 
 2. The folder: (\_economics/\_BU/References/papers)
 - Henri Theil. 1983. _Linear algebra and matrix methods in econometrics._
