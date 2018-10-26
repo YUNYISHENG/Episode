@@ -14,6 +14,7 @@ The books are saved in the folder (\_economics/\_BU/References/References_Regime
 - Iain L. MacDonald and Walter Zucchini. 1997. *Hidden Markov and other models for discrete-valued time series*. Chapman & Hall.
 - Sean Meyn, Richard L. Tweedie, Peter W. Glynn. 1993. _Markov chains and stochastic stability_. Cambridge University Press
 - Olivier Cappe, Eric Moulines, and Tobias Ryden. 2005. _Inference in Hidden Markov Models._
+- Lutz Kilian and Helmut Lutkepohl .2017. _Structural Vector Autoregressive Analysis._ Cambridge University Press.
 - Robert H. Shumway and David S. Stoffer. 2016. _Time Series Analysis and Its Applications: With R Examples_. Springer.
 
 ## Papers
