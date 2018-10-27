@@ -36,20 +36,20 @@ rate.*
 ## OTHERS
 1. The folder: (\_economics/\_BU/References/books)
 - **A. Econometrics**  
-- Paul A. Ruud. 2000. _An Introduction to Classical Econometric Theory._  
-- Heshem Pesaran. 2014. _Time Series and Panel Data Econometrics_  
++Paul A. Ruud. 2000. _An Introduction to Classical Econometric Theory._  
++Heshem Pesaran. 2014. _Time Series and Panel Data Econometrics_  
 
 - *a. Financial Econometrics*  
-- Yacine Aït Sahalia, Jean Jacod. 2014. *High-Frequency Financial Econometrics*. Princeton University Press.  
++Yacine Aït Sahalia, Jean Jacod. 2014. *High-Frequency Financial Econometrics*. Princeton University Press.  
 
 - *b. Time Series Econometrics*  
-- James Douglas Hamilton. 1994. _Time Series Analysis._ Princeton University Press.  
-- Jacques J.F. Commandeur and Siem Jan Koopman. 2007. _An Introduction to State Space Time Series Analysis._ Oxford University Press.  
-- Durbin_J. and Koopman S.J. 2012. _Time Series Analysis by State Space Methods._ Oxford University Press.  
++James Douglas Hamilton. 1994. _Time Series Analysis._ Princeton University Press.  
++Jacques J.F. Commandeur and Siem Jan Koopman. 2007. _An Introduction to State Space Time Series Analysis._ Oxford University Press.  
++Durbin_J. and Koopman S.J. 2012. _Time Series Analysis by State Space Methods._ Oxford University Press.  
 
 - *c. Panel Data Econometrics*  
-- Jeffrey M. Wooldridge. 2010. _Econometric Analysis of Cross Section and Panel Data_, Second Edition  
-- Manuel Arellano. 2003. _Panel Data Econometrics_
++Jeffrey M. Wooldridge. 2010. _Econometric Analysis of Cross Section and Panel Data_, Second Edition  
++Manuel Arellano. 2003. _Panel Data Econometrics_
 
 - **B. Stochastic Process**  
 Samuel Karlin, Howard M. Taylor. 1975. _A First Course in Stochastic Processes._  
