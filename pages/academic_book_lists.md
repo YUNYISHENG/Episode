@@ -36,8 +36,9 @@ rate.*
 ## OTHERS
 1. The folder: (\_economics/\_BU/References/books)
 - **A. Econometrics**  
-+Paul A. Ruud. 2000. _An Introduction to Classical Econometric Theory._  
-+Heshem Pesaran. 2014. _Time Series and Panel Data Econometrics_  
++ Paul A. Ruud. 2000. _An Introduction to Classical Econometric Theory._  
++ Heshem Pesaran. 2014. _Time Series and Panel Data Econometrics_  
++ Arthur Goldberger. 1991. _A Course in Econometrics_. Harvard University Press
 
 - *a. Financial Econometrics*  
 +Yacine Aït Sahalia, Jean Jacod. 2014. *High-Frequency Financial Econometrics*. Princeton University Press.  
