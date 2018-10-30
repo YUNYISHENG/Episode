@@ -38,7 +38,8 @@ rate.*
 - **A. Econometrics**  
 ++ Paul A. Ruud. 2000. _An Introduction to Classical Econometric Theory._  
 ++ Heshem Pesaran. 2014. _Time Series and Panel Data Econometrics_  
-++ Arthur Goldberger. 1991. _A Course in Econometrics_. Harvard University Press
+++ Arthur Goldberger. 1991. _A Course in Econometrics_. Harvard University Press  
+++ Dale J. Poirier. 1995. _Intermediate Statistics and Econometrics: A Comparative Approach_. MIT Press  
 
 - *a. Financial Econometrics*  
 +Yacine Aït Sahalia, Jean Jacod. 2014. *High-Frequency Financial Econometrics*. Princeton University Press.  
@@ -50,7 +51,12 @@ rate.*
 
 - *c. Panel Data Econometrics*  
 +Jeffrey M. Wooldridge. 2010. _Econometric Analysis of Cross Section and Panel Data_, Second Edition  
-+Manuel Arellano. 2003. _Panel Data Econometrics_
++Manuel Arellano. 2003. _Panel Data Econometrics_  
+
+- *d. Bayesian Econometrics*  
+++ Edward Greenberg. 2012. _Introduction to Bayesian Econometrics_. Cambridge University Press  
+++ Arnold Zellner. 1971. _An Introduction to Bayesian Inference in Econometrics_. Wiley-Interscience  
+
 
 - **B. Stochastic Process**  
 Samuel Karlin, Howard M. Taylor. 1975. _A First Course in Stochastic Processes._  
