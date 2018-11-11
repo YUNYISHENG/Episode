@@ -17,7 +17,7 @@ case4 “亲爱的，我们上次看到哪里了？”
 case5 “走这边，老婆。”  
 case6 “不错呀，满天星。”  
 case7 “老婆，你今天真美。”  
-case8 “老婆，今天的才真好吃。” 
+case8 “老婆，今天的才真好吃。”   
 case9 “老婆，这件衣服不错，转过来让我仔细瞅瞅。”   
 KEPP IN MIND: 积极的反馈，See Something, Say Good things!  
  
