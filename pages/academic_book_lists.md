@@ -57,7 +57,10 @@ rate.*
 ++ Edward Greenberg. 2012. _Introduction to Bayesian Econometrics_. Cambridge University Press  
 ++ Arnold Zellner. 1971. _An Introduction to Bayesian Inference in Econometrics_. Wiley-Interscience  
 
-- *e. Bootstrap*  
+- *e. Microeconometrics*  
+++ Cameron A.C., Trivedi P.K. 2005. _Microeconometrics: Methods and Applications_  
+
+- *f. Bootstrap*  
 ++ A. C. Davison, D. V. Hinkley. 1997. _Bootstrap Methods and their Application_  
 ++ Michael R. Chernick, Robert A. LaBudde. 2001. _An Introduction to Bootstrap Methods with Applications to R_  
 ++ Bradley Efron, R.J. Tibshirani. 1993. _An Introduction to the Bootstrap_
