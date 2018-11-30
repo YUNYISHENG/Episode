@@ -45,18 +45,22 @@ rate.*
 +Yacine Aït Sahalia, Jean Jacod. 2014. *High-Frequency Financial Econometrics*. Princeton University Press.  
 
 - *b. Time Series Econometrics*  
-+James Douglas Hamilton. 1994. _Time Series Analysis._ Princeton University Press.  
-+Jacques J.F. Commandeur and Siem Jan Koopman. 2007. _An Introduction to State Space Time Series Analysis._ Oxford University Press.  
-+Durbin_J. and Koopman S.J. 2012. _Time Series Analysis by State Space Methods._ Oxford University Press.  
+++ James Douglas Hamilton. 1994. _Time Series Analysis._ Princeton University Press.  
+++ Jacques J.F. Commandeur and Siem Jan Koopman. 2007. _An Introduction to State Space Time Series Analysis._ Oxford University Press.  
+++ Durbin_J. and Koopman S.J. 2012. _Time Series Analysis by State Space Methods._ Oxford University Press.  
 
 - *c. Panel Data Econometrics*  
-+Jeffrey M. Wooldridge. 2010. _Econometric Analysis of Cross Section and Panel Data_, Second Edition  
-+Manuel Arellano. 2003. _Panel Data Econometrics_  
+++ Jeffrey M. Wooldridge. 2010. _Econometric Analysis of Cross Section and Panel Data_, Second Edition  
+++ Manuel Arellano. 2003. _Panel Data Econometrics_  
 
 - *d. Bayesian Econometrics*  
 ++ Edward Greenberg. 2012. _Introduction to Bayesian Econometrics_. Cambridge University Press  
 ++ Arnold Zellner. 1971. _An Introduction to Bayesian Inference in Econometrics_. Wiley-Interscience  
 
+- *e. Bootstrap*  
+++ A. C. Davison, D. V. Hinkley. 1997. _Bootstrap Methods and their Application_  
+++ Michael R. Chernick, Robert A. LaBudde. 2001. _An Introduction to Bootstrap Methods with Applications to R_  
+++ Bradley Efron, R.J. Tibshirani. 1993. _An Introduction to the Bootstrap_
 
 - **B. Stochastic Process**  
 Samuel Karlin, Howard M. Taylor. 1975. _A First Course in Stochastic Processes._  
