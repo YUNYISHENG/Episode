@@ -63,7 +63,8 @@ rate.*
 - *f. Bootstrap*  
 ++ A. C. Davison, D. V. Hinkley. 1997. _Bootstrap Methods and their Application_  
 ++ Michael R. Chernick, Robert A. LaBudde. 2001. _An Introduction to Bootstrap Methods with Applications to R_  
-++ Bradley Efron, R.J. Tibshirani. 1993. _An Introduction to the Bootstrap_
+++ Bradley Efron, R.J. Tibshirani. 1993. _An Introduction to the Bootstrap_  
+++ Peter Hall. 1992. _The Bootstrap and Edgeworth Expansion_  
 
 - **B. Stochastic Process**  
 Samuel Karlin, Howard M. Taylor. 1975. _A First Course in Stochastic Processes._  
