@@ -218,7 +218,7 @@ title: "Humor"
 
 ## IV. 图片
 - 教师节  
-![教师节](https://raw.githubusercontent.com/YUNYISHENG/episode/gh-pages/_assets/images/humor001.jpg)
+![教师节](https://raw.githubusercontent.com/YUNYISHENG/episode/gh-pages/_assets/images/humor/humor001.jpg)
 
 ## 资料补充
 1 **谜语**
