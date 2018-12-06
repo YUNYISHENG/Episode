@@ -212,7 +212,11 @@ title: "Humor"
 - 案板上的擀面杖--光棍一条
 - 暗室里穿针--难过
 
-## III. 图片
+## III. 俗语  
+-   
+- 冬吃萝卜夏吃姜，不劳医生开药方。  
+
+## IV. 图片
 - 教师节  
 ![教师节](https://raw.githubusercontent.com/YUNYISHENG/episode/gh-pages/_assets/images/humor001.jpg)
 
