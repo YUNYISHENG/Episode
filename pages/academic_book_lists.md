@@ -68,6 +68,11 @@ rate.*
 ++ Bradley Efron, R.J. Tibshirani. 1993. _An Introduction to the Bootstrap_  
 ++ Peter Hall. 1992. _The Bootstrap and Edgeworth Expansion_  
 
+- *g. High Dimensional Econometrics*  
+++ Christophe Giraud. 2014. _Introduction to High-Dimensional Statistics_  
+++ Peter Buhlmann and Sara van de Geer. 2011. _Statistics for High-Dimensional Data: Methods, Theory and Applications_  
+++ Christian Houdre David M. Mason. 2016. _High Dimensional Probability VII The Cargese Volume_  
+
 - **B. Stochastic Process**  
 Samuel Karlin, Howard M. Taylor. 1975. _A First Course in Stochastic Processes._  
 Samuel Karlin, Howard M. Taylor. 1981. _A Second Course in Stochastic Processes._  
