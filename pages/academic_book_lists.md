@@ -47,7 +47,8 @@ rate.*
 - *b. Time Series Econometrics*  
 ++ James Douglas Hamilton. 1994. _Time Series Analysis._ Princeton University Press.  
 ++ Jacques J.F. Commandeur and Siem Jan Koopman. 2007. _An Introduction to State Space Time Series Analysis._ Oxford University Press.  
-++ Durbin_J. and Koopman S.J. 2012. _Time Series Analysis by State Space Methods._ Oxford University Press.  
+++ Durbin J. and Koopman S.J. 2012. _Time Series Analysis by State Space Methods._ Oxford University Press.  
+++ Casals Jose. 2016. _State-space methods for time series analysis : theory, applications and software_.  
 
 - *c. Panel Data Econometrics*  
 ++ Jeffrey M. Wooldridge. 2010. _Econometric Analysis of Cross Section and Panel Data_, Second Edition  
