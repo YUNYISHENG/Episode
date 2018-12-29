@@ -103,6 +103,8 @@ Halmos. _Naive Set Theory._
 
 - **F. Numerical Optimazation**  
 
+- **H. Matrix Algebra**  
+++ Kaare Brandt Petersen and Michael Syskind Pedersen. 2012. _Matrix Cook Book_  
 
 2. The folder: (\_economics/\_BU/References/papers)
 - Henri Theil. 1983. _Linear algebra and matrix methods in econometrics._
