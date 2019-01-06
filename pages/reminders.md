@@ -3,6 +3,7 @@ layout: page
 title: Reminders
 published: true
 ---
+- 调整手机、电脑等屏幕亮度。  
 - 白天去学校，看论文,写论文;晚上回家，看各类书籍，写文章。   
 - paper及教材，用本子take notes。**-start a topic, and add pages when more materials are available-**, 例如，关于MLE的东西，做一个小总结，然后如果其他资料有更好的讲解，写在新的paper上，然后增补上去。
 - 其他的，可以杂记在this website。
