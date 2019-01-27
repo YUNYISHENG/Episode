@@ -2,6 +2,9 @@
 layout: "page"
 title: "Other Books"
 ---
+## 经济学  
+- Google "economics reading list"  
+
 ## 哲学
 - 《人生的智慧》（叔本华）
 - 《奥义书》（徐梵澄译）
