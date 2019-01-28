@@ -3,7 +3,7 @@ layout: "page"
 title: "TV and Movies"
 ---
 ## 电影
-- To watch: Smallfoot，雪怪大冒险
+- To watch: Smallfoot，雪怪大冒险; 无双；一条狗的回家之路;白蛇：缘起。  
 - Hotel Transylvania 1-3: 精灵旅社。
 - A Quiet Place， 寂静之地: 亲情胜于惊骇。
 - 一个勺子，陈建斌/蒋勤勤
