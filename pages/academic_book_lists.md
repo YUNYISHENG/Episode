@@ -105,6 +105,8 @@ Halmos. _Naive Set Theory._
 
 - **H. Matrix Algebra**  
 ++ Kaare Brandt Petersen and Michael Syskind Pedersen. 2012. _Matrix Cook Book_  
+++ Sudipto Banerjee and Anindya Roy. 2014. _Linear Algebra and Matrix Analysis for Statistics_  
+++ James E. Gentle. 2017. _Matrix Algebra, Theory, Computations and Applications in Statistics_  
 
 2. The folder: (\_economics/\_BU/References/papers)
 - Henri Theil. 1983. _Linear algebra and matrix methods in econometrics._
