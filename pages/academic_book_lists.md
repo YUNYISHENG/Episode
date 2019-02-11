@@ -60,6 +60,9 @@ rate.*
 ++ Arnold Zellner. 1971. _An Introduction to Bayesian Inference in Econometrics_. Wiley-Interscience  
 ++ Gary Koop, Dale J. Poirier and Justin L. Tobias. 2007. _Bayesian Econometric Methods (Econometric Exercises)_  
 ++ Gary Koop. 2003. _Bayesian econometrics_  
+++ Mike West, Jeff Harrison. 1997. _Bayesian Forecasting and Dynamic Models_.  
+++ Andrew Gelman, John B. Carlin, Hal S. Stern, David B. Dunson, Aki Vehtari, Donald B. Rubin. 2014. _Bayesian Data Analysis_.  
+++ Svetlozar T. Rachev, John S. J. Hsu, Biliana S. Bagasheva, Frank J. Fabozzi. 2008. _Bayesian Methods in Finance_.  
 
 - *e. Microeconometrics*  
 ++ Cameron A.C., Trivedi P.K. 2005. _Microeconometrics: Methods and Applications_  
