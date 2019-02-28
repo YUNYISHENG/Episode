@@ -13,6 +13,14 @@ title: "Humor"
 - 歇后语
 
 ## I. 哲理故事/幽默笑话/脑筋急转弯
+- 怀了二胎，宝宝在肚子里动得很厉害。晚上，宝宝又在肚子里拳打脚踢，我睡不着，忍不住嘀咕道：“这孩子在里面干吗呢？一直没停。” 老公来了句：“住二手房，忙着装修呢！ ”  
+
+- 奶奶问上幼儿园的小孙女。奶奶：宝宝你是哪个国家的人呀？孙女：中国人呀！奶奶：你是哪个省的呀？孙女：妈妈生的呀！我直接喷饭了。。。  
+
+- 老公：“这菜。。。我吃出了叛徒的味道。” 老婆：“怎么说？” 老公：“油大。”  
+
+- A thief with a long record was brought before the judge. Judge: Have you ever stolen things? Thief: Oh, now and then. Judge: And where have you stolen these things? Thief: Oh, here and there. Judge: Right. Lock him up, officer. Thief: Hey, when do I get out jail? Judge: Oh, sooner or later.  
+
 - 隔壁老王路过一个院子，发现门上写着两个字：情人。觉得院子主人蛮风趣，于是推门进入，两条大狼狗突然扑了过来......从医院打完狂犬疫苗回来，老王揉揉眼晴，再仔细一看，原来写的二字是：慎入！    
 
 - 三岁外甥女：“舅舅，我觉得小鸟可厉害了！”。我：“怎么厉害呢？”外甥女：“小鸟可以飞着的时候就拉粑粑，我跑着的时候就拉不出来。”我。。。 
@@ -143,7 +151,7 @@ title: "Humor"
 
 - 唐僧：八戒，你跑两步给为师看看吧！ 八戒：师傅，为什么要看我跑啊？ 唐僧：说来惭愧！为师长这么大，即没吃过猪肉，也没看过猪跑唉。。。一步一步来吧！
 
-- 搞笑的翻译： 刘备 Backup Liu；关羽 Close Feather；张飞 Open Fly。
+- 搞笑的翻译： 刘备，Backup Liu；关羽，Close Feather；张飞 Open Fly；任我行, Let Me Go；常遇春，Always Meet Spring；令狐冲，Make the Fox Rush；
 
 - Q. I have a neck, but no head, and I wear a cap. What am I?
 - A. A bottle!
