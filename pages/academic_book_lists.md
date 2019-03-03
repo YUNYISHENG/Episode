@@ -50,6 +50,14 @@ rate.*
 ++ Jacques J.F. Commandeur and Siem Jan Koopman. 2007. _An Introduction to State Space Time Series Analysis._ Oxford University Press.  
 ++ Durbin J. and Koopman S.J. 2012. _Time Series Analysis by State Space Methods._ Oxford University Press.  
 ++ Casals Jose. 2016. _State-space methods for time series analysis : theory, applications and software_.  
+++ Jan Beran. 2017. _Mathematical Foundations of Time Series Analysis_  
+++ Jan G. de Gooijer. 2017. _Elements of Nonlinear Time Series Analysis and Forecasting_  
+++ Kerry Patterson. 2012. _Unit Root Tests in Time Series Extensions and Developments_  
+++ Klaus Neusser. 2016. _Time Series Econometrics_  
+++ Koopman, Siem Jan and Shephard, Neil. 2016. _Unobserved components and time series econometrics_  
+++ Rong Chen and Ruey S. Tsay. 2018. _Nonlinear Time Series Analysis_  
+++ Terence C. Mills. 2011. _The Foundations of Modern Time Series Analysis_  
+++ Terence C. Mills. 2015. _Time Series Econometrics A Concise Introduction_  
 
 - *c. Panel Data Econometrics*  
 ++ Jeffrey M. Wooldridge. 2010. _Econometric Analysis of Cross Section and Panel Data_, Second Edition  
