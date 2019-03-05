@@ -68,4 +68,4 @@ published: true
 臀围：90  
 腰围：71  
 
-- debt: ￥8w，Tian.
+- debt: ￥8w-3.5w=4.5w，Tian.
