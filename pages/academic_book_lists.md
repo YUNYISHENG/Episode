@@ -41,6 +41,7 @@ rate.*
 ++ Heshem Pesaran. 2014. _Time Series and Panel Data Econometrics_  
 ++ Arthur Goldberger. 1991. _A Course in Econometrics_. Harvard University Press  
 ++ Dale J. Poirier. 1995. _Intermediate Statistics and Econometrics: A Comparative Approach_. MIT Press  
+++ James H. Stock, Mark W. Watson. 2005. _Introduction to Econometrics_  
 
 - *a. Financial Econometrics*  
 +Yacine Aït Sahalia, Jean Jacod. 2014. *High-Frequency Financial Econometrics*. Princeton University Press.  
