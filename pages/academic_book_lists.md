@@ -72,6 +72,7 @@ rate.*
 ++ Mike West, Jeff Harrison. 1997. _Bayesian Forecasting and Dynamic Models_.  
 ++ Andrew Gelman, John B. Carlin, Hal S. Stern, David B. Dunson, Aki Vehtari, Donald B. Rubin. 2014. _Bayesian Data Analysis_.  
 ++ Svetlozar T. Rachev, John S. J. Hsu, Biliana S. Bagasheva, Frank J. Fabozzi. 2008. _Bayesian Methods in Finance_.  
+++ Geweke J. 2005. _Contemporary Bayesian Econometrics and Statistics_.  
 
 - *e. Microeconometrics*  
 ++ Cameron A.C., Trivedi P.K. 2005. _Microeconometrics: Methods and Applications_  
