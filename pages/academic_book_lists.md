@@ -89,6 +89,10 @@ rate.*
 ++ Peter Buhlmann and Sara van de Geer. 2011. _Statistics for High-Dimensional Data: Methods, Theory and Applications_  
 ++ Christian Houdre David M. Mason. 2016. _High Dimensional Probability VII The Cargese Volume_  
 
+- *h. Handbooks  
+++ Graham Elliott and Allan Timmermann. 2013. _Handbook of Economic Forecasting Vol 2._  
+++ G. Elliott, C. W.J. Granger, A. G. Timmermann. 2006. _Handbook of Economic Forecasting Vol 1._  
+
 - **B. Stochastic Process**  
 Samuel Karlin, Howard M. Taylor. 1975. _A First Course in Stochastic Processes._  
 Samuel Karlin, Howard M. Taylor. 1981. _A Second Course in Stochastic Processes._  
