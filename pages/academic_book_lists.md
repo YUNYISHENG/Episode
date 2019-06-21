@@ -126,9 +126,9 @@ Halmos. _Naive Set Theory._
 ++ Sudipto Banerjee and Anindya Roy. 2014. _Linear Algebra and Matrix Analysis for Statistics_  
 ++ James E. Gentle. 2017. _Matrix Algebra, Theory, Computations and Applications in Statistics_  
 
-- **I. Machine Learning  
+- **I. Machine Learning**  
 
-- **J. Python  
+- **J. Python**  
  
 
 2. The folder: (\_economics/\_BU/References/papers)
