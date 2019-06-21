@@ -89,7 +89,7 @@ rate.*
 ++ Peter Buhlmann and Sara van de Geer. 2011. _Statistics for High-Dimensional Data: Methods, Theory and Applications_  
 ++ Christian Houdre David M. Mason. 2016. _High Dimensional Probability VII The Cargese Volume_  
 
-- *h. Handbooks  
+- *h. Handbooks*  
 ++ Graham Elliott and Allan Timmermann. 2013. _Handbook of Economic Forecasting Vol 2._  
 ++ G. Elliott, C. W.J. Granger, A. G. Timmermann. 2006. _Handbook of Economic Forecasting Vol 1._  
 
@@ -127,9 +127,10 @@ Halmos. _Naive Set Theory._
 ++ James E. Gentle. 2017. _Matrix Algebra, Theory, Computations and Applications in Statistics_  
 
 - **I. Machine Learning**  
+++  
 
 - **J. Python**  
- 
+++  
 
 2. The folder: (\_economics/\_BU/References/papers)
 - Henri Theil. 1983. _Linear algebra and matrix methods in econometrics._
