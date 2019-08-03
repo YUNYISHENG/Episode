@@ -100,6 +100,7 @@ rate.*
 - *i. Machine Learning*  
 ++ Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani. 2017. _An Introduction to Statistical Learning
 with Applications in R_  
+++ Joel Grus .2019. _Data Science from Scratch: First Principles with Python_ 
 
 - **B. Stochastic Process**  
 Samuel Karlin, Howard M. Taylor. 1975. _A First Course in Stochastic Processes._  
