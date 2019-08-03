@@ -4,7 +4,7 @@ title: "百字"
 ---
 *“一百字，以自省”*
 ### 2019.08
-03 Go paperless.
+03 Go paperless and the halves.
   
 
 ### 2018.10
