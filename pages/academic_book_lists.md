@@ -61,6 +61,7 @@ rate.*
 ++ Terence C. Mills. 2015. _Time Series Econometrics A Concise Introduction_  
 
 - *b(2). Time Series and Forecasting*  
+++ Graham Elliott and Allan Timmermann. 2016. _Economic Forecasting_  
 ++ Douglas C. Montgomery, Cheryl L. Jennings and Murat Kulahci .2008. _Introduction to Time Series Analysis and Forecasting_  
 
 - *c. Panel Data Econometrics*  
