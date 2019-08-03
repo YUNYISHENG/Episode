@@ -3,7 +3,8 @@ layout: "page"
 title: "Words & Expressions"
 ---
 1. Words
-- placebo effect
+- unwavering: steady
+- placebo effect: a beneficial effect produced by a placebo drug or treatment, which cannot be attributed to the properties of the placebo itself, and must therefore be due to the patient's belief in that treatment.
 - sober: not affected by alcohol; not drunk.
 - infinitesimal: extremely small.
 - kinetics: a branch of science that deals with the effects of forces upon the motions of material bodies or with changes in a physical or chemical system.
