@@ -46,7 +46,7 @@ rate.*
 - *a. Financial Econometrics*  
 +Yacine Aït Sahalia, Jean Jacod. 2014. *High-Frequency Financial Econometrics*. Princeton University Press.  
 
-- *b. Time Series Econometrics*  
+- *b(1). Time Series Econometrics*  
 ++ James Douglas Hamilton. 1994. _Time Series Analysis._ Princeton University Press.  
 ++ Jacques J.F. Commandeur and Siem Jan Koopman. 2007. _An Introduction to State Space Time Series Analysis._ Oxford University Press.  
 ++ Durbin J. and Koopman S.J. 2012. _Time Series Analysis by State Space Methods._ Oxford University Press.  
@@ -59,6 +59,9 @@ rate.*
 ++ Rong Chen and Ruey S. Tsay. 2018. _Nonlinear Time Series Analysis_  
 ++ Terence C. Mills. 2011. _The Foundations of Modern Time Series Analysis_  
 ++ Terence C. Mills. 2015. _Time Series Econometrics A Concise Introduction_  
+
+- *b(2). Time Series and Forecasting*  
+++ Douglas C. Montgomery, Cheryl L. Jennings and Murat Kulahci .2008. _Introduction to Time Series Analysis and Forecasting_  
 
 - *c. Panel Data Econometrics*  
 ++ Jeffrey M. Wooldridge. 2010. _Econometric Analysis of Cross Section and Panel Data_, Second Edition  
@@ -92,6 +95,10 @@ rate.*
 - *h. Handbooks*  
 ++ Graham Elliott and Allan Timmermann. 2013. _Handbook of Economic Forecasting Vol 2._  
 ++ G. Elliott, C. W.J. Granger, A. G. Timmermann. 2006. _Handbook of Economic Forecasting Vol 1._  
+
+- *i. Machine Learning*  
+++ Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani. 2017. _An Introduction to Statistical Learning
+with Applications in R_  
 
 - **B. Stochastic Process**  
 Samuel Karlin, Howard M. Taylor. 1975. _A First Course in Stochastic Processes._  
