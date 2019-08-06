@@ -3,6 +3,7 @@ layout: "page"
 title: "Words & Expressions"
 ---
 1. Words
+- burgeon:grow rapidly
 - unwavering: steady
 - placebo effect: a beneficial effect produced by a placebo drug or treatment, which cannot be attributed to the properties of the placebo itself, and must therefore be due to the patient's belief in that treatment.
 - sober: not affected by alcohol; not drunk.
