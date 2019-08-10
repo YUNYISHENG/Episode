@@ -141,8 +141,14 @@ Halmos. _Naive Set Theory._
 - **J. Python**  
 ++  
 
-- **H. R**  
+- **K. R**  
 ++ Hadley Wickham. 2015. _R Packages_   
+
+- **L. C**  
+++   
+
+- **M. C++**  
+++   
 
 2. The folder: (\_economics/\_BU/References/papers)
 - Henri Theil. 1983. _Linear algebra and matrix methods in econometrics._
