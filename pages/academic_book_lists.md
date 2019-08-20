@@ -148,7 +148,7 @@ Halmos. _Naive Set Theory._
 ++   
 
 - **M. C++**  
-++   
+++ Siddhartha Rao. 2017. _Sams Teach Yourself C++ in one Hour a Day_  
 
 2. The folder: (\_economics/\_BU/References/papers)
 - Henri Theil. 1983. _Linear algebra and matrix methods in econometrics._
