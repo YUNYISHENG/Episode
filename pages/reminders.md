@@ -59,6 +59,9 @@ published: true
 - The name "hidden Markov model" is apparently due to L.P.Neuwirth(Poritz,1988).{MacDonald, Zucchini(1997),page 56}.
 
 ## OTHERS
+- 跨境汇款  
+可以使用Xoom。  
+
 - 尺寸（cm）  
 1.  
 肩髋：42  
