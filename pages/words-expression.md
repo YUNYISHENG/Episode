@@ -3,6 +3,7 @@ layout: "page"
 title: "Words & Expressions"
 ---
 1. Words
+- staggering: deeply shocking 
 - genie 
 - arcane: understood by few  
 - harness: control, utilize  
