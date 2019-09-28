@@ -3,6 +3,8 @@ layout: "page"
 title: "Words & Expressions"
 ---
 1. Words
+- 
+- whet: sharpen; a thing that stimulates appetite or desire  
 - Fahrenheit
 - staggering: deeply shocking 
 - genie 
