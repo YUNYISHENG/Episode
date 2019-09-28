@@ -3,6 +3,7 @@ layout: "page"
 title: "Words & Expressions"
 ---
 1. Words
+- Fahrenheit
 - staggering: deeply shocking 
 - genie 
 - arcane: understood by few  
