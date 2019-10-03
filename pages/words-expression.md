@@ -3,7 +3,9 @@ layout: "page"
 title: "Words & Expressions"
 ---
 1. Words
-- 
+- wink wink nudge nudge  
+- nudge  
+- wink  
 - whet: sharpen; a thing that stimulates appetite or desire  
 - Fahrenheit
 - staggering: deeply shocking 
