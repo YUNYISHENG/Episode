@@ -3,6 +3,7 @@ layout: "page"
 title: "Words & Expressions"
 ---
 1. Words
+- dub: give an unofficial name or nickname to  
 - unwieldy: cumbersome  
 - wink wink nudge nudge  
 - nudge  
