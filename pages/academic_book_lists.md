@@ -89,6 +89,8 @@ rate.*
 ++ Peter Hall. 1992. _The Bootstrap and Edgeworth Expansion_  
 
 - *g. High Dimensional Econometrics*  
+++ Vershynin, R. 2018. _High-Dimensional Probability: An Introduction with Applications in
+Data Science_   
 ++ Christophe Giraud. 2014. _Introduction to High-Dimensional Statistics_  
 ++ Peter Buhlmann and Sara van de Geer. 2011. _Statistics for High-Dimensional Data: Methods, Theory and Applications_  
 ++ Christian Houdre David M. Mason. 2016. _High Dimensional Probability VII The Cargese Volume_  
