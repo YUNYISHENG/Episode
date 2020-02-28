@@ -131,6 +131,7 @@ Halmos. _Naive Set Theory._
 - **F. Numerical Optimazation**  
 
 - **H. Matrix Algebra**  
+++ Roger A. Horn, Charles R. Johnson. 2013. _Matrix Analysis_  
 ++ Kaare Brandt Petersen and Michael Syskind Pedersen. 2012. _Matrix Cook Book_  
 ++ Sudipto Banerjee and Anindya Roy. 2014. _Linear Algebra and Matrix Analysis for Statistics_  
 ++ James E. Gentle. 2017. _Matrix Algebra, Theory, Computations and Applications in Statistics_  
