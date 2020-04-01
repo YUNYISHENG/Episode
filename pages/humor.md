@@ -13,7 +13,9 @@ title: "Humor"
 - 歇后语
 
 ## I. 哲理故事/幽默笑话/脑筋急转弯
--      
+-       
+
+- Q:Why did God create economists? A:In order to make weather forecasters look good.     
 
 - 两头牛在一起吃草，青牛问黑牛：“喂！你的草是什么味道？”黑牛道：“草莓味！”青牛靠过来吃了一口，愤怒地喊到“你骗我！”黑牛轻蔑地看他一眼，回道：“笨蛋，我说草没味。”     
 
