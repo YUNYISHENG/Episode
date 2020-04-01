@@ -3,6 +3,7 @@ layout: "page"
 title: "Words & Expressions"
 ---
 1. Words
+- xenophobia    
 - undermine: subvert, sabotage, threaten, weaken, compromise, diminish, reduce    
 - lurch: stagger    
 - dub: give an unofficial name or nickname to  
