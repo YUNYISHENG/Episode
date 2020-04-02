@@ -3,6 +3,7 @@ layout: "page"
 title: "Words & Expressions"
 ---
 1. Words
+- hemline: the level of the lower edge of a garment such as a skirt, dress, or coat    
 - ensnare： catch in or as in a trap    
 - theatrics: ways of behaving and speaking that are like a performance on a stage and are intended to attract attention    
 - scour: clean or brighten the surface of (something) by rubbing it hard, typically with an abrasive or detergent    
