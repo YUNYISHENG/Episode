@@ -3,6 +3,7 @@ layout: "page"
 title: "Words & Expressions"
 ---
 1. Words
+- tendrils: a slender threadlike appendage of a climbing plant, often growing in a spiral form, that stretches out and twines around any suitable support.    
 - hemline: the level of the lower edge of a garment such as a skirt, dress, or coat    
 - ensnare： catch in or as in a trap    
 - theatrics: ways of behaving and speaking that are like a performance on a stage and are intended to attract attention    
