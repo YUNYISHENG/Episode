@@ -3,7 +3,8 @@ layout: "page"
 title: "Words & Expressions"
 ---
 1. Words
--      
+-       
+- gig: a job, especially one that is temporary or that has an uncertain future     
 - sanguine: optimistic or positive, especially in an apparently bad or difficult situation    
 - tendrils: a slender threadlike appendage of a climbing plant, often growing in a spiral form, that stretches out and twines around any suitable support.    
 - hemline: the level of the lower edge of a garment such as a skirt, dress, or coat    
