@@ -3,6 +3,8 @@ layout: "page"
 title: "Words & Expressions"
 ---
 1. Words
+-       
+- spectator: watcher      
 - faltering: losing strength or momentum      
 - infuriate: make (someone) extremely angry and impatient      
 - cascade: a small waterfall, typically one of several that fall in stages down a steep rocky slope      
