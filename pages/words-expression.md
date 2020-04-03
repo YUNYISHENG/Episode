@@ -3,6 +3,7 @@ layout: "page"
 title: "Words & Expressions"
 ---
 1. Words
+- faltering: losing strength or momentum      
 - infuriate: make (someone) extremely angry and impatient      
 - cascade: a small waterfall, typically one of several that fall in stages down a steep rocky slope      
 - gig: a job, especially one that is temporary or that has an uncertain future     
