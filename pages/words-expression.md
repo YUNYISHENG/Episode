@@ -3,7 +3,7 @@ layout: "page"
 title: "Words & Expressions"
 ---
 1. Words
--           
+- clampdown: a severe or concerted attempt to suppress something (suppression, prevention, stoppin)          
 - feeble: lacking physical strength, especially as a result of age or illness          
 - hasten: be quick to do something                    
 - spontaneous: performed or occurring as a result of a sudden inner impulse or inclination and without premeditation or external stimulus (	unforced, voluntary, unconstrained, unprompted)      
