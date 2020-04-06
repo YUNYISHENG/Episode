@@ -3,7 +3,8 @@ layout: "page"
 title: "Words & Expressions"
 ---
 1. Words
--               
+-           
+- hasten: be quick to do something                    
 - spontaneous: performed or occurring as a result of a sudden inner impulse or inclination and without premeditation or external stimulus (	unforced, voluntary, unconstrained, unprompted)      
 - spectator: watcher      
 - faltering: losing strength or momentum      
