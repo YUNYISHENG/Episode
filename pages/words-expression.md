@@ -3,7 +3,8 @@ layout: "page"
 title: "Words & Expressions"
 ---
 1. Words
--      
+- 
+- agitprop： political (originally communist) propaganda, especially in art or literature     
 - imminent: about to happen(impending, at hand, close, near, approaching)    
 - demonization: the portrayal of something as wicked and threatening      
 - furlough: a layoff, especially a temporary one, from a place of employment       
