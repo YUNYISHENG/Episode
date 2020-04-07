@@ -3,7 +3,8 @@ layout: "page"
 title: "Words & Expressions"
 ---
 1. Words
--       
+-     
+- demonization: the portrayal of something as wicked and threatening      
 - furlough: a layoff, especially a temporary one, from a place of employment       
 - extricate: free (someone or something) from a constraint or difficulty     
 - anthology: a published collection of poems or other pieces of writing  
