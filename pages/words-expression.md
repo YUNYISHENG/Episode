@@ -3,7 +3,8 @@ layout: "page"
 title: "Words & Expressions"
 ---
 1. Words
--      
+-        
+- extricate: free (someone or something) from a constraint or difficulty     
 - anthology: a published collection of poems or other pieces of writing  
 - clampdown: a severe or concerted attempt to suppress something (suppression, prevention, stoppin)          
 - feeble: lacking physical strength, especially as a result of age or illness          
