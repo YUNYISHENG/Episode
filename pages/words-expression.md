@@ -3,7 +3,9 @@ layout: "page"
 title: "Words & Expressions"
 ---
 1. Words
--      
+-           
+- hunker: squat or crouch down low.         
+- grazing: grassland suitable for pasturage     
 - hysteria： exaggerated or uncontrollable emotion or excitement, especially among a group of people(	frenzy, wildness, feverishness)
 - agitprop： political (originally communist) propaganda, especially in art or literature     
 - imminent: about to happen(impending, at hand, close, near, approaching)    
