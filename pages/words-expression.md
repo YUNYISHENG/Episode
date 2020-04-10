@@ -75,7 +75,9 @@ title: "Words & Expressions"
 - needless to say: of course
 
 3. People
-- Douc,/du:k/
-- Moulines,/mulinz/
-- Ryden,/raiden/
+- Douc,/du:k/      
+- Moulines,/mulinz/    
+- Ryden,/raiden/    
+- Lebesgue, /le'beg/    
+- Borel, /bɔ'rel/    
 
