@@ -75,6 +75,7 @@ title: "Words & Expressions"
 - needless to say: of course
 
 3. People
+- Stieltjes: /'stildʒis/
 - Douc,/du:k/      
 - Moulines,/mulinz/    
 - Ryden,/raiden/    
