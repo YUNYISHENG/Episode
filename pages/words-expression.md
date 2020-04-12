@@ -3,7 +3,8 @@ layout: "page"
 title: "Words & Expressions"
 ---
 1. Words
--           
+-       
+- uncharted: (of an area of land or sea) not mapped or surveyed           
 - hunker: squat or crouch down low.         
 - grazing: grassland suitable for pasturage     
 - hysteria： exaggerated or uncontrollable emotion or excitement, especially among a group of people(	frenzy, wildness, feverishness)
