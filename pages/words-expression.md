@@ -3,7 +3,8 @@ layout: "page"
 title: "Words & Expressions"
 ---
 1. Words
--        
+-            
+- mulch       
 - tractor      
 - uncharted: (of an area of land or sea) not mapped or surveyed           
 - hunker: squat or crouch down low.         
