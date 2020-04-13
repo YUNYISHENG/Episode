@@ -3,7 +3,9 @@ layout: "page"
 title: "Words & Expressions"
 ---
 1. Words
--            
+-          
+- cruciate ligament       
+- graffiti           
 - mulch       
 - tractor      
 - uncharted: (of an area of land or sea) not mapped or surveyed           
