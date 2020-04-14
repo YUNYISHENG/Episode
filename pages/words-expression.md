@@ -3,7 +3,8 @@ layout: "page"
 title: "Words & Expressions"
 ---
 1. Words
--           
+-               
+- pedagogical: relating to teaching           
 - endorse: declare one's public approval or support of         
 - cruciate ligament       
 - graffiti           
