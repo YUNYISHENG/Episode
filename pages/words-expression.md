@@ -80,7 +80,8 @@ title: "Words & Expressions"
 - needless to say: of course
 
 3. People
--     
+-                
+- Caratheodory: /'karaθiɔ'dɔri/    
 - Lipschitz: /lipʃiz/    
 - Stieltjes: /'stildʒis/
 - Douc,/du:k/      
