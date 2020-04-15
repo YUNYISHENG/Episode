@@ -3,7 +3,9 @@ layout: "page"
 title: "Words & Expressions"
 ---
 1. Words
--      
+-               
+- quotient       
+- partisanship     
 - converse:/kənˈvərs/              
 - pedagogical: relating to teaching           
 - endorse: declare one's public approval or support of         
