@@ -3,7 +3,8 @@ layout: "page"
 title: "Words & Expressions"
 ---
 1. Words
--      
+-             
+- onus: used to refer to something that is one's duty or responsibility     
 - moratoriums: a legal authorization to debtors to postpone payment             
 - immaterial: unimportant under the circumstances; irrelevant              
 - quotient       
