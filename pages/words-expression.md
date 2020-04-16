@@ -3,7 +3,8 @@ layout: "page"
 title: "Words & Expressions"
 ---
 1. Words
--              
+-      
+- moratoriums: a legal authorization to debtors to postpone payment             
 - immaterial: unimportant under the circumstances; irrelevant              
 - quotient       
 - partisanship     
