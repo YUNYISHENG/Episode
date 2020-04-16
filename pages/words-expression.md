@@ -3,7 +3,8 @@ layout: "page"
 title: "Words & Expressions"
 ---
 1. Words
--               
+-              
+- immaterial: unimportant under the circumstances; irrelevant              
 - quotient       
 - partisanship     
 - converse:/kənˈvərs/              
@@ -85,7 +86,7 @@ title: "Words & Expressions"
 - needless to say: of course
 
 3. People
--                
+- L'Hospital's or L'Hôpital's: /lo(s)pital/               
 - Caratheodory: /'karaθiɔ'dɔri/    
 - Lipschitz: /lipʃiz/    
 - Stieltjes: /'stildʒis/
