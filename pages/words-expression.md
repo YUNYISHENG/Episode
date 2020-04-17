@@ -83,6 +83,7 @@ title: "Words & Expressions"
 - agility: ability to move/think/understand quickly and easily.
 - erudition: the quality of having or showing great knowledge or learning.
 - hyphen /haifen/
+- trigonometry: /trig'nomitri/        
 
 2. Expressions
 - needless to say: of course
