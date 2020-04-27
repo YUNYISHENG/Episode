@@ -3,7 +3,8 @@ layout: "page"
 title: "Words & Expressions"
 ---
 1. Words
--       
+-                  
+- hog： a domesticated pig, especially one over 120 pounds (54 kg) and reared for slaughter      
 - euthanize: put (a living being, especially a dog or cat) to death humanely                   
 - onus: used to refer to something that is one's duty or responsibility     
 - moratoriums: a legal authorization to debtors to postpone payment             
