@@ -3,7 +3,8 @@ layout: "page"
 title: "Words & Expressions"
 ---
 1. Words
--       
+-           
+- agonize： undergo great mental anguish through worrying about something      
 - guinea pig：/ˈɡinē ˌpiɡ/        
 - taboo: prohibited or restricted by social custom                 
 - hog： a domesticated pig, especially one over 120 pounds (54 kg) and reared for slaughter      
