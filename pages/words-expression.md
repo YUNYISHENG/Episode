@@ -3,7 +3,8 @@ layout: "page"
 title: "Words & Expressions"
 ---
 1. Words
--           
+-          
+- barber: a person who cuts hair, especially men's, and shaves or trims beards as an occupation          
 - agonize： undergo great mental anguish through worrying about something      
 - guinea pig：/ˈɡinē ˌpiɡ/        
 - taboo: prohibited or restricted by social custom                 
