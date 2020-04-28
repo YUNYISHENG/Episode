@@ -96,6 +96,7 @@ title: "Words & Expressions"
 - needless to say: of course
 
 3. People
+- Cartesian， /kartiʃin/           
 - Archimedean, /arkəˈmidiən/
 - Fourier, /'fɔriə/           
 - L'Hospital's or L'Hôpital's: /lo(s)pital/               
