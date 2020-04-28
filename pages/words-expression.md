@@ -3,7 +3,8 @@ layout: "page"
 title: "Words & Expressions"
 ---
 1. Words
--         
+-       
+- guinea pig：/ˈɡinē ˌpiɡ/        
 - taboo: prohibited or restricted by social custom                 
 - hog： a domesticated pig, especially one over 120 pounds (54 kg) and reared for slaughter      
 - euthanize:/ˈyo͞oTHəˌnīz/ put (a living being, especially a dog or cat) to death humanely                   
