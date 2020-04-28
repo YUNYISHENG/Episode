@@ -3,7 +3,8 @@ layout: "page"
 title: "Words & Expressions"
 ---
 1. Words
--                  
+-         
+- taboo: prohibited or restricted by social custom                 
 - hog： a domesticated pig, especially one over 120 pounds (54 kg) and reared for slaughter      
 - euthanize:/ˈyo͞oTHəˌnīz/ put (a living being, especially a dog or cat) to death humanely                   
 - onus: used to refer to something that is one's duty or responsibility     
