@@ -96,6 +96,7 @@ title: "Words & Expressions"
 - needless to say: of course
 
 3. People
+- topology, /təˈpäləjē/
 - Cartesian， /kartiʃin/           
 - Archimedean, /arkəˈmidiən/
 - Fourier, /'fɔriə/           
