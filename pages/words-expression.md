@@ -95,7 +95,9 @@ title: "Words & Expressions"
 2. Expressions
 - needless to say: of course
 
-3. People
+3. People and Concept
+- axiomatic,  /ˌaksēəˈmadik/              
+- axiom, /ˈaksēəm/             
 - topology, /təˈpäləjē/
 - Cartesian， /kartiʃin/           
 - Archimedean, /arkəˈmidiən/
