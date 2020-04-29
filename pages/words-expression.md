@@ -3,7 +3,9 @@ layout: "page"
 title: "Words & Expressions"
 ---
 1. Words
--               
+-             
+- eschew: deliberately avoid using; abstain from        
+- enjoin: instruct or urge (someone) to do something              
 - acrimonious: (typically of speech or a debate) angry and bitter         
 - barber: a person who cuts hair, especially men's, and shaves or trims beards as an occupation          
 - agonize： undergo great mental anguish through worrying about something      
