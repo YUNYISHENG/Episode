@@ -96,6 +96,9 @@ title: "Words & Expressions"
 - needless to say: of course
 
 3. People and Concept
+- analogous, /əˈnaləɡəs/              
+- analog, /ˈanlˌôɡ/
+- analogy, /əˈnaləjē/       
 - axiomatic,  /ˌaksēəˈmadik/              
 - axiom, /ˈaksēəm/             
 - topology, /təˈpäləjē/
