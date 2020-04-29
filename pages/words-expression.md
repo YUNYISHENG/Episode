@@ -97,7 +97,7 @@ title: "Words & Expressions"
 
 3. People and Concept
 - analogous, /əˈnaləɡəs/              
-- analog, /ˈanlˌôɡ/
+- analog or analogue, /ˈanlˌôɡ/
 - analogy, /əˈnaləjē/       
 - axiomatic,  /ˌaksēəˈmadik/              
 - axiom, /ˈaksēəm/             
