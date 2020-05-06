@@ -3,7 +3,8 @@ layout: "page"
 title: "Words & Expressions"
 ---
 1. Words
--             
+-               
+- hooding ceremony            
 - eschew: deliberately avoid using; abstain from        
 - enjoin: instruct or urge (someone) to do something              
 - acrimonious: (typically of speech or a debate) angry and bitter         
