@@ -3,7 +3,9 @@ layout: "page"
 title: "Words & Expressions"
 ---
 1. Words
--               
+-              
+- blooper: an embarrassing error.                  
+- gaffe: an unintentional act or remark causing embarrassment to its originator; a blunder.                  
 - hooding ceremony            
 - eschew: deliberately avoid using; abstain from        
 - enjoin: instruct or urge (someone) to do something              
